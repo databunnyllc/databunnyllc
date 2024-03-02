@@ -25,8 +25,9 @@
     </p>
 </div>
 
-## About Me
-<br>
+### About Me
+<hr>
+
 <ul>
     <li>☁️I am currently working on building Networks on the Cloud</li>
     <li>👷🏾I am currently learning about DevOps and Developing Applications using Azure</li>
@@ -34,8 +35,10 @@
     <li>💻Learning Python, C#, Terraform, Docker, Kubernetes, Azure Ai, and Linux</li>
     <li>✏️I love to draw and design</li>
 </ul>
-<br>
-## My Blog Posts
+<hr>
+
+### My Blog Posts
 <ul>
     <li><a href="https://databunnyllc.medium.com/creating-your-azure-virtual-network-644b4dbe532d">Creating Your Azure Virtual Network</a></li>
+    <li><a href="https://databunnyllc.medium.com/creating-your-azure-virtual-network-644b4dbe532d">Configuring Budgets & Alerts in Microsoft Azure</a></li>
 </ul>
