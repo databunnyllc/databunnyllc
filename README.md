@@ -8,7 +8,7 @@
       <a href="https://www.youtube.com/@DataBunny">
         <img src="https://camo.githubusercontent.com/bc71a28e3c95bf4ef3072c6298312957e530e1bd0bc224d1667f12c6bd68cf48/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5375627363726962652d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465"/>
       </a>
-      <a>
+      <a href="https://twitter.com/DataBunnyLLC">
          <img src="https://camo.githubusercontent.com/d3bf7ef2a8112c728618e8bd029fb478791f9560d2e4da75ee4a52b28adf5c81/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466f6c6c6f772d2532333144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465"/>
       </a>
 </div>
@@ -25,7 +25,7 @@
     </p>
 </div>
 
-### About Me
+### 👤About Me
 <hr>
 
 <ul>
@@ -37,8 +37,16 @@
 </ul>
 <hr>
 
-### My Blog Posts
+### 📚My Blog Posts
 <ul>
     <li><a href="https://databunnyllc.medium.com/creating-your-azure-virtual-network-644b4dbe532d">Creating Your Azure Virtual Network</a></li>
     <li><a href="https://databunnyllc.medium.com/creating-your-azure-virtual-network-644b4dbe532d">Configuring Budgets & Alerts in Microsoft Azure</a></li>
+    <li><a href="https://databunnyllc.medium.com/the-ipsec-tunnel-9df4c85d8dd0">The IPSec Tunnel</a></li>
+</ul>
+<hr>
+
+### 📺Top Youtube Videos
+<ul>
+    <li><a href="https://www.youtube.com/live/7mHOGdxokb0?si=8lB2wK8Okoglgysa">Working In Tech Ep 13 - How To Become A Network Engineer with Christopher Leveston</a></li>
+    <li><a href="https://www.youtube.com/watch?v=GAeWRb9xfNc&t=3519s">E113: Tech Talk w/ Christopher Leveston - Network Engineer</a></li>
 </ul>
