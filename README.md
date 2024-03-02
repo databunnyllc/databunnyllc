@@ -1,16 +1,18 @@
-### Hi there 👋
+# こんにちは 👋
 
-<!--
-**databunnyllc/databunnyllc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Unordered list area  -->
+<div>
+<ul>
+  <li>
+    <!-- Buttons List -->
+    <div>
+      <a href="https://www.youtube.com/@DataBunny">
+        <img style="width:100px" src="https://ihitthebutton.com/wp-content/uploads/2021/06/giant-subscribe-png-with-logo.png"/>
+      </a>
+      <a>
+         <img style="width:100px" src="https://img.itch.zone/aW1nLzg2Mjk2MDAucG5n/original/SnXRam.png"/>
+      </a>
+    </div>
+  </li>
+</ul>
+</div>
