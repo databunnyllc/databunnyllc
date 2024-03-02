@@ -21,16 +21,21 @@
 <!-- Introduction -->
 <div>
     <p>
-        Welcome to my github! My name is Christopher Leveston. Most of you know me as DataBunny. I am currently a Network Engineer, specializing in Fortinet and Cisco. What originally got me into tech was always coding. Developing websites and designing applications that you can see come to life, always brought out that creative tech in me. This feeling of coding something and seeing it come to life followed me throughout my tech career, and even as a network engineer, I still have these feelings. I am now on a journey from network engineer to Cloud DevOps and Development. Bringing cloud orchestration and network automation to the field. Here, on GitHub, I will share this journey!
+        Welcome to my github! My name is Christopher Leveston. Most of you know me as DataBunny. I am currently a Network Engineer, specializing in Fortinet and Cisco. What originally got me into tech was always coding. Developing websites and designing applications that you can see come to life, always brought out that creative tech in me. This feeling of coding something and seeing it come to life followed me throughout my tech career, and even as a network engineer, I still have these feelings. I am now on a journey from network engineer to Cloud Developer. Bringing cloud orchestration and network automation to the field within a DevOps environment. Here, on GitHub, I will share this journey!
     </p>
 </div>
 
 ## About Me
 <br>
 <ul>
-    <li>I am currently working on building Networks on the Cloud</li>
-    <li>I am currently learning about DevOps and Developing Applications using Azure</li>
-    <li>I am returning to school for Software Engineering</li>
-    <li>Learning Python, C#, Terraform, Docker, Kubernetes, Azure Ai, and Linux</li>
-    <li>I love to draw and design</li>
+    <li>☁️I am currently working on building Networks on the Cloud</li>
+    <li>👷🏾I am currently learning about DevOps and Developing Applications using Azure</li>
+    <li>🏫I am returning to school for Software Engineering</li>
+    <li>💻Learning Python, C#, Terraform, Docker, Kubernetes, Azure Ai, and Linux</li>
+    <li>✏️I love to draw and design</li>
+</ul>
+<br>
+## My Blog Posts
+<ul>
+    <li><a href="https://databunnyllc.medium.com/creating-your-azure-virtual-network-644b4dbe532d">Creating Your Azure Virtual Network</a></li>
 </ul>
