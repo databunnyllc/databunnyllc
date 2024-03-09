@@ -15,7 +15,7 @@
 
 <!-- BANNER -->
 <div>
-  <img src="https://pbs.twimg.com/profile_banners/1104174880004685825/1709361733/600x200"/>
+  <img src="https://pbs.twimg.com/profile_banners/1104174880004685825/1709446026/600x200"/>
 </div>
 
 <!-- Introduction -->
